@@ -24,7 +24,6 @@ const Header = ()=>{
                     ):(
                         <Moon className="h-6 w-6 text-blue-500 rotate-0 transition-all"/>
                     )}
-
                     </div>
                     
                 </div>
